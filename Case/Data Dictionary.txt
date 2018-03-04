@@ -1,0 +1,11 @@
+S.No	
+City	
+Path Order	
+Route	
+Path_Id	
+Latitude	
+Longtitude	
+Distance	
+PAX	
+Fare	
+Per_KM
